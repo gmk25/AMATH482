@@ -2,9 +2,9 @@
 Assignments for Computational Methods in Data Analysis class. Cover a range of topics including the Fast Fourier Tranform, Singular Value Decomposition, Prinicipal Component Analysis and some Machine Learning for applications in image/signal processing and classifications.
 
 # Important Information/How to Use
-- Many of the assignments require additional files, which have not been uploaded to this repository.
+- Many of the assignments require additional files, which have not been uploaded to this repository due to their large size.
 - Code for the first four assignments has been written in MATLAB. Code for the fifth assignment was written using Python.
-- Each assignment folder contains the code and a writeup with theoretical background, algorithm implementation, and summary and     conclusion information.
+- Each assignment folder contains the code and a writeup with theoretical background, algorithm implementation, and summary and     conclusion information. Use the writeup to help you understand how well the code worked and how it was used.
 
 # What does each assignment do?
 ## Homework 1 - Fast Fourier Transforms
@@ -17,6 +17,7 @@ Twelve different videos of a paint can moving up and down were provided. There w
 - Test 2: Shaky camera
 - Test 3: Additional horizontal motion to the paint can
 - Test 4: Additional horizontal and rotational motion to the paint can
+
 Our goal was to obtain the position of the paint can in each time frame for every video and perform Singular Value Decompositon on all of these tests to determine what it told us about the motion of the paintcan.
 ## Homework 4 - Machine Learning (Classification)
 Using Principal Comoponent Analysis and Linear Discriminant Analysis, we built and trained a classifier to work with these three tests:
