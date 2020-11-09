@@ -26,4 +26,4 @@ Using Principal Comoponent Analysis and Linear Discriminant Analysis, we built a
 - Test 3: Identify the song's genre from one of three genres.
 ## Homework 5 - Machine Learning (Neural Networks)
 Using the Fashion-MNIST dataset, we optimized a Fully Connected Dense Neural Network and a Convolutional Neural Network by exploring how changing certain parameters influenced the accuracy of the classification.
-These parameters inclued zero-padding, filter size, activation function, and the learning rate. This was done using the Tensflow package in Python.
+These parameters inclued zero-padding, filter size, activation function, and the learning rate. This was done using the Tensorflow package in Python.
